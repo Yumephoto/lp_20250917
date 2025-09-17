@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+.pnpm-store/
+.turbo/
+bun.lockb
+
+# builds / caches
+.next/
+out/
+dist/
+build/
+.cache/
+.vercel/
+.vite/
+coverage/
+
+# misc
+.DS_Store
+*.log
+.env*
